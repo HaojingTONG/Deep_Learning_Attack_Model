@@ -1,1 +1,2 @@
-The ipynb file for this project is pro3_5.ipynb. And unzip the TestDataSet.zip file to run it.
+The jupyter-notebook file for this project is Attack_Model.ipynb
+And unzip the TestDataSet.zip file to run it.
